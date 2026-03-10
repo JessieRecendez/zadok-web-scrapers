@@ -1,0 +1,475 @@
+2026-03-10 14:03:06,974 - INFO - Pomellato scraper started
+2026-03-10 14:03:16,796 - INFO - Cookie banner dismissed
+2026-03-10 14:03:17,960 - INFO - Clicked Load More (1)
+2026-03-10 14:03:22,146 - INFO - Clicked Load More (2)
+2026-03-10 14:03:26,540 - INFO - Clicked Load More (3)
+2026-03-10 14:03:30,788 - INFO - Clicked Load More (4)
+2026-03-10 14:03:35,032 - INFO - Clicked Load More (5)
+2026-03-10 14:03:39,352 - INFO - Clicked Load More (6)
+2026-03-10 14:03:43,708 - INFO - Clicked Load More (7)
+2026-03-10 14:03:48,070 - INFO - Clicked Load More (8)
+2026-03-10 14:03:52,588 - INFO - Clicked Load More (9)
+2026-03-10 14:03:56,926 - INFO - Clicked Load More (10)
+2026-03-10 14:04:01,626 - INFO - Clicked Load More (11)
+2026-03-10 14:04:06,498 - INFO - Clicked Load More (12)
+2026-03-10 14:04:13,838 - INFO - Clicked Load More (13)
+2026-03-10 14:04:19,385 - INFO - Clicked Load More (14)
+2026-03-10 14:04:32,416 - INFO - No more Load More button — all products loaded
+2026-03-10 14:04:33,412 - INFO - Total products detected: 227
+2026-03-10 14:04:47,366 - WARNING - Description not found for Iconica Bracelet
+2026-03-10 14:04:47,406 - INFO - Product scraped: SKU=PBC5110_O1000_00000 | Product Name=Iconica Bracelet | Price=8750 | Link=https://www.pomellato.com/us_en/iconica-bracelet-pbc5110-o1000-00000?size=5
+2026-03-10 14:05:00,531 - WARNING - Description not found for Iconica Earrings
+2026-03-10 14:05:00,585 - INFO - Product scraped: SKU=POC5111_O1000_00000 | Product Name=Iconica Earrings | Price=5050 | Link=https://www.pomellato.com/us_en/iconica-earrings-poc5111-o1000-00000?size=193
+2026-03-10 14:05:13,356 - WARNING - Description not found for Iconica Earrings
+2026-03-10 14:05:13,403 - INFO - Product scraped: SKU=POC5060_O7WHR_DB000 | Product Name=Iconica Earrings | Price=9250 | Link=https://www.pomellato.com/us_en/iconica-earrings-poc5060-o7whr-db000?size=152
+2026-03-10 14:05:28,047 - WARNING - Description not found for Iconica Earrings
+2026-03-10 14:05:28,085 - INFO - Product scraped: SKU=POC5061_O7WHR_DB000 | Product Name=Iconica Earrings | Price=18050 | Link=https://www.pomellato.com/us_en/iconica-earrings-poc5061-o7whr-db000?size=152
+2026-03-10 14:05:41,428 - WARNING - Description not found for Iconica Necklace
+2026-03-10 14:05:41,456 - INFO - Product scraped: SKU=PCC5001_O7WHR_DB000 | Product Name=Iconica Necklace | Price=10600 | Link=https://www.pomellato.com/us_en/iconica-necklace-pcc5001-o7whr-db000?size=162
+2026-03-10 14:05:53,816 - WARNING - Description not found for Iconica Necklace
+2026-03-10 14:05:53,839 - INFO - Product scraped: SKU=PCC5110_O1000_00000 | Product Name=Iconica Necklace | Price=17500 | Link=https://www.pomellato.com/us_en/iconica-necklace-pcc5110-o1000-00000?size=41
+2026-03-10 14:06:06,715 - WARNING - Description not found for Nudo Mini Necklace With Pendant
+2026-03-10 14:06:06,819 - INFO - Product scraped: SKU=PCC5020_O6WHR_DB0TL | Product Name=Nudo Mini Necklace With Pendant | Price=2900 | Link=https://www.pomellato.com/us_en/nudo-mini-necklace-with-pendant-pcc5020-o6whr-db0tl?size=154
+2026-03-10 14:06:22,602 - WARNING - Description not found for Nudo Ring
+2026-03-10 14:06:23,040 - INFO - Product scraped: SKU=PAC4020_O6WHR_DB0TL | Product Name=Nudo Ring | Price=8650 | Link=https://www.pomellato.com/us_en/nudo-ring-pac4020-o6whr-db0tl?size=19
+2026-03-10 14:06:37,341 - WARNING - Description not found for Nudo Earrings
+2026-03-10 14:06:37,732 - INFO - Product scraped: SKU=POC4020_O6WHR_DB0TL | Product Name=Nudo Earrings | Price=14500 | Link=https://www.pomellato.com/us_en/nudo-earrings-poc4020-o6whr-db0tl?size=152
+2026-03-10 14:06:52,758 - WARNING - Description not found for Nudo Earrings
+2026-03-10 14:06:52,818 - INFO - Product scraped: SKU=POC4020_O6WHR_DB0TB | Product Name=Nudo Earrings | Price=13000 | Link=https://www.pomellato.com/us_en/nudo-earrings-poc4020-o6whr-db0tb?size=152
+2026-03-10 14:07:06,820 - WARNING - Description not found for Nudo Ring
+2026-03-10 14:07:06,863 - INFO - Product scraped: SKU=PAC4020_O6WHR_DB0TB | Product Name=Nudo Ring | Price=7600 | Link=https://www.pomellato.com/us_en/nudo-ring-pac4020-o6whr-db0tb?size=18
+2026-03-10 14:07:21,555 - WARNING - Description not found for Nudo Ring
+2026-03-10 14:07:21,763 - INFO - Product scraped: SKU=PAC4020_O6WHR_DB0PA | Product Name=Nudo Ring | Price=7800 | Link=https://www.pomellato.com/us_en/nudo-ring-pac4020-o6whr-db0pa?size=18
+2026-03-10 14:07:38,117 - WARNING - Description not found for Nudo Ring
+2026-03-10 14:07:38,176 - INFO - Product scraped: SKU=PAC4020_O6WHR_DB0YY | Product Name=Nudo Ring | Price=7800 | Link=https://www.pomellato.com/us_en/nudo-ring-pac4020-o6whr-db0yy?size=19
+2026-03-10 14:07:50,865 - WARNING - Description not found for Nudo Earrings
+2026-03-10 14:07:50,974 - INFO - Product scraped: SKU=POC4020_O6WHR_DB0YY | Product Name=Nudo Earrings | Price=13900 | Link=https://www.pomellato.com/us_en/nudo-earrings-poc4020-o6whr-db0yy?size=152
+2026-03-10 14:08:04,794 - WARNING - Description not found for Nudo Earrings
+2026-03-10 14:08:04,858 - INFO - Product scraped: SKU=POC4020_O6WHR_DB0PA | Product Name=Nudo Earrings | Price=13900 | Link=https://www.pomellato.com/us_en/nudo-earrings-poc4020-o6whr-db0pa?size=152
+2026-03-10 14:08:18,447 - WARNING - Description not found for Nudo Ring
+2026-03-10 14:08:18,487 - INFO - Product scraped: SKU=PAC4021_O6WHR_DB000 | Product Name=Nudo Ring | Price=13100 | Link=https://www.pomellato.com/us_en/nudo-ring-pac4021-o6whr-db000?size=19
+2026-03-10 14:08:31,413 - WARNING - Description not found for Nudo Earrings
+2026-03-10 14:08:31,457 - INFO - Product scraped: SKU=POC4021_O6WHR_DB000 | Product Name=Nudo Earrings | Price=20950 | Link=https://www.pomellato.com/us_en/nudo-earrings-poc4021-o6whr-db000?size=152
+2026-03-10 14:08:44,392 - WARNING - Description not found for Pomellato Together Bracelet
+2026-03-10 14:08:44,438 - INFO - Product scraped: SKU=PBC5013_O7WHR_DB000 | Product Name=Pomellato Together Bracelet | Price=3400 | Link=https://www.pomellato.com/us_en/pomellato-together-bracelet-pbc5013-o7whr-db000?size=5
+2026-03-10 14:08:57,402 - WARNING - Description not found for Pomellato Together Ring
+2026-03-10 14:08:57,429 - INFO - Product scraped: SKU=PAC5014_O7000_DB000 | Product Name=Pomellato Together Ring | Price=2550 | Link=https://www.pomellato.com/us_en/pomellato-together-ring-pac5014-o7000-db000?size=18
+2026-03-10 14:09:11,060 - WARNING - Description not found for Pomellato Together Ring
+2026-03-10 14:09:11,162 - INFO - Product scraped: SKU=PAC4015_O7WHR_DB000 | Product Name=Pomellato Together Ring | Price=3750 | Link=https://www.pomellato.com/us_en/pomellato-together-ring-pac4015-o7whr-db000?size=18
+2026-03-10 14:09:24,127 - WARNING - Description not found for Pomellato Together Choker Necklace
+2026-03-10 14:09:24,263 - INFO - Product scraped: SKU=PCC5014_O7WHR_DB000 | Product Name=Pomellato Together Choker Necklace | Price=16150 | Link=https://www.pomellato.com/us_en/pomellato-together-choker-necklace-pcc5014-o7whr-db000?size=154
+2026-03-10 14:09:37,365 - WARNING - Description not found for Pomellato Together Necklace With Pendant
+2026-03-10 14:09:37,404 - INFO - Product scraped: SKU=PCC5013_O7WHR_DB000 | Product Name=Pomellato Together Necklace With Pendant | Price=3800 | Link=https://www.pomellato.com/us_en/pomellato-together-necklace-with-pendant-pcc5013-o7whr-db000?size=154
+2026-03-10 14:09:50,168 - WARNING - Description not found for Pomellato Together Ear Cuff
+2026-03-10 14:09:50,201 - INFO - Product scraped: SKU=PHC5013_O7WHR_DB000 | Product Name=Pomellato Together Ear Cuff | Price=5450 | Link=https://www.pomellato.com/us_en/pomellato-together-ear-cuff-phc5013-o7whr-db000?size=152
+2026-03-10 14:10:02,971 - WARNING - Description not found for Pomellato Together Bracelet
+2026-03-10 14:10:03,043 - INFO - Product scraped: SKU=PBC5010_O7WHR_DB000 | Product Name=Pomellato Together Bracelet | Price=8650 | Link=https://www.pomellato.com/us_en/pomellato-together-bracelet-pbc5010-o7whr-db000?size=4
+2026-03-10 14:10:17,974 - WARNING - Description not found for Iconica Medium-Large Ring
+2026-03-10 14:10:17,990 - INFO - Product scraped: SKU=PAC4002_O7000_00000 | Product Name=Iconica Medium-Large Ring | Price=3450 | Link=https://www.pomellato.com/us_en/iconica-medium-large-ring-pac4002-o7000-00000?size=18
+2026-03-10 14:10:31,323 - WARNING - Description not found for Iconica Slim Ring
+2026-03-10 14:10:31,354 - INFO - Product scraped: SKU=PAC4001_O7000_00000 | Product Name=Iconica Slim Ring | Price=2500 | Link=https://www.pomellato.com/us_en/iconica-slim-ring-pac4001-o7000-00000?size=19
+2026-03-10 14:10:45,322 - WARNING - Description not found for Iconica Extra Slim Ring
+2026-03-10 14:10:45,358 - INFO - Product scraped: SKU=PAC4000_O7000_00000 | Product Name=Iconica Extra Slim Ring | Price=2000 | Link=https://www.pomellato.com/us_en/iconica-extra-slim-ring-pac4000-o7000-00000?size=18
+2026-03-10 14:10:58,461 - WARNING - Description not found for Iconica Slim Ring
+2026-03-10 14:10:58,512 - INFO - Product scraped: SKU=PAC4006_O7000_DB000 | Product Name=Iconica Slim Ring | Price=3200 | Link=https://www.pomellato.com/us_en/iconica-slim-ring-pac4006-o7000-db000?size=19
+2026-03-10 14:11:11,830 - WARNING - Description not found for Iconica Medium-Large Ring
+2026-03-10 14:11:11,867 - INFO - Product scraped: SKU=PAC4007_O7000_DB000 | Product Name=Iconica Medium-Large Ring | Price=4400 | Link=https://www.pomellato.com/us_en/iconica-medium-large-ring-pac4007-o7000-db000?size=18
+2026-03-10 14:11:31,403 - WARNING - Description not found for Iconica Extra Slim Ring
+2026-03-10 14:11:31,456 - INFO - Product scraped: SKU=PAC4005_O7000_DB000 | Product Name=Iconica Extra Slim Ring | Price=2800 | Link=https://www.pomellato.com/us_en/iconica-extra-slim-ring-pac4005-o7000-db000?size=19
+2026-03-10 14:11:45,474 - WARNING - Description not found for Iconica Slim Ring
+2026-03-10 14:11:45,497 - INFO - Product scraped: SKU=PAC4008_O7WHR_DB000 | Product Name=Iconica Slim Ring | Price=10100 | Link=https://www.pomellato.com/us_en/iconica-slim-ring-pac4008-o7whr-db000?size=18
+2026-03-10 14:11:59,048 - WARNING - Description not found for Iconica Necklace with pendant
+2026-03-10 14:11:59,091 - INFO - Product scraped: SKU=PCC4040_O7WHR_DB000 | Product Name=Iconica Necklace with pendant | Price=5300 | Link=https://www.pomellato.com/us_en/iconica-necklace-with-pendant-pcc4040-o7whr-db000?size=156
+2026-03-10 14:12:11,867 - WARNING - Description not found for Iconica Necklace with pendant
+2026-03-10 14:12:11,930 - INFO - Product scraped: SKU=PCC4041_O7WHR_DB000 | Product Name=Iconica Necklace with pendant | Price=6050 | Link=https://www.pomellato.com/us_en/iconica-necklace-with-pendant-pcc4041-o7whr-db000?size=156
+2026-03-10 14:12:24,780 - WARNING - Description not found for Iconica Necklace
+2026-03-10 14:12:24,805 - INFO - Product scraped: SKU=PCC4110_O7000_00000 | Product Name=Iconica Necklace | Price=30250 | Link=https://www.pomellato.com/us_en/iconica-necklace-pcc4110-o7000-00000?size=168
+2026-03-10 14:12:37,681 - WARNING - Description not found for Iconica Bracelet
+2026-03-10 14:12:37,725 - INFO - Product scraped: SKU=PBC4110_O7000_00000 | Product Name=Iconica Bracelet | Price=13600 | Link=https://www.pomellato.com/us_en/iconica-bracelet-pbc4110-o7000-00000?size=6
+2026-03-10 14:12:50,973 - WARNING - Description not found for Pomellato Together Ring
+2026-03-10 14:12:51,012 - INFO - Product scraped: SKU=PAC4015_O2WHR_DB000 | Product Name=Pomellato Together Ring | Price=3850 | Link=https://www.pomellato.com/us_en/pomellato-together-ring-pac4015-o2whr-db000?size=18
+2026-03-10 14:13:03,856 - WARNING - Description not found for Necklace with pendant Pomellato Together
+2026-03-10 14:13:03,897 - INFO - Product scraped: SKU=PCC4013_O7WHR_DB000 | Product Name=Necklace with pendant Pomellato Together | Price=5700 | Link=https://www.pomellato.com/us_en/necklace-with-pendant-pomellato-together-pcc4013-o7whr-db000?size=22
+2026-03-10 14:13:17,132 - WARNING - Description not found for Pomellato Together Ring
+2026-03-10 14:13:17,164 - INFO - Product scraped: SKU=PAC4012_O7WHR_DB000 | Product Name=Pomellato Together Ring | Price=3250 | Link=https://www.pomellato.com/us_en/pomellato-together-ring-pac4012-o7whr-db000?size=19
+2026-03-10 14:13:30,191 - WARNING - Description not found for Pomellato Together Earrings
+2026-03-10 14:13:30,229 - INFO - Product scraped: SKU=POC4012_O7WHR_DB000 | Product Name=Pomellato Together Earrings | Price=3750 | Link=https://www.pomellato.com/us_en/pomellato-together-earrings-poc4012-o7whr-db000?size=152
+2026-03-10 14:13:43,006 - WARNING - Description not found for Pomellato Together Ear Cuff
+2026-03-10 14:13:43,049 - INFO - Product scraped: SKU=PHC4016_O7WHR_DB000 | Product Name=Pomellato Together Ear Cuff | Price=2300 | Link=https://www.pomellato.com/us_en/pomellato-together-ear-cuff-phc4016-o7whr-db000?size=152
+2026-03-10 14:13:55,872 - WARNING - Description not found for Pomellato Together Necklace with pendant
+2026-03-10 14:13:55,915 - INFO - Product scraped: SKU=PCC4012_O7WHR_DB000 | Product Name=Pomellato Together Necklace with pendant | Price=4800 | Link=https://www.pomellato.com/us_en/pomellato-together-necklace-with-pendant-pcc4012-o7whr-db000?size=22
+2026-03-10 14:14:08,596 - WARNING - Description not found for Pomellato Together Earrings
+2026-03-10 14:14:08,624 - INFO - Product scraped: SKU=POC4010_O7000_00000 | Product Name=Pomellato Together Earrings | Price=3150 | Link=https://www.pomellato.com/us_en/pomellato-together-earrings-poc4010-o7000-00000?size=152
+2026-03-10 14:14:21,452 - WARNING - Description not found for Pomellato Together Bangle
+2026-03-10 14:14:21,476 - INFO - Product scraped: SKU=PBC4010_O7000_00000 | Product Name=Pomellato Together Bangle | Price=7950 | Link=https://www.pomellato.com/us_en/pomellato-together-bangle-pbc4010-o7000-00000?size=5
+2026-03-10 14:14:34,318 - WARNING - Description not found for Sabbia Bracelet
+2026-03-10 14:14:34,397 - INFO - Product scraped: SKU=PBC3053_O7BWR_DBX00 | Product Name=Sabbia Bracelet | Price=17750 | Link=https://www.pomellato.com/us_en/sabbia-bracelet-pbc3053-o7bwr-dbx00?size=6
+2026-03-10 14:14:47,659 - WARNING - Description not found for Pomellato Together Ring
+2026-03-10 14:14:47,696 - INFO - Product scraped: SKU=PAC4010_O7000_00000 | Product Name=Pomellato Together Ring | Price=2550 | Link=https://www.pomellato.com/us_en/pomellato-together-ring-pac4010-o7000-00000?size=19
+2026-03-10 14:15:00,515 - WARNING - Description not found for Pomellato Together Ring
+2026-03-10 14:15:00,545 - INFO - Product scraped: SKU=PAC5013_O7000_DB000 | Product Name=Pomellato Together Ring | Price=2250 | Link=https://www.pomellato.com/us_en/pomellato-together-ring-pac5013-o7000-db000?size=18
+2026-03-10 14:15:13,534 - WARNING - Description not found for Sabbia Earrings
+2026-03-10 14:15:13,574 - INFO - Product scraped: SKU=POB2041_O7000_DB000 | Product Name=Sabbia Earrings | Price=7600 | Link=https://www.pomellato.com/us_en/sabbia-earrings-pob2041-o7000-db000?size=152
+2026-03-10 14:15:26,391 - WARNING - Description not found for Iconica Earrings
+2026-03-10 14:15:26,415 - INFO - Product scraped: SKU=POB7120_O7000_00000 | Product Name=Iconica Earrings | Price=4600 | Link=https://www.pomellato.com/us_en/iconica-earrings-pob7120-o7000-00000?size=152
+2026-03-10 14:15:39,282 - WARNING - Description not found for Iconica Ring
+2026-03-10 14:15:39,364 - INFO - Product scraped: SKU=PAC3020_O7000_000TL | Product Name=Iconica Ring | Price=3950 | Link=https://www.pomellato.com/us_en/iconica-ring-pac3020-o7000-000tl?size=18
+2026-03-10 14:15:53,048 - WARNING - Description not found for Iconica Ring
+2026-03-10 14:15:53,086 - INFO - Product scraped: SKU=PAC3020_O7000_000GP | Product Name=Iconica Ring | Price=3850 | Link=https://www.pomellato.com/us_en/iconica-ring-pac3020-o7000-000gp?size=18
+2026-03-10 14:16:06,710 - WARNING - Description not found for Iconica Ring
+2026-03-10 14:16:06,744 - INFO - Product scraped: SKU=PAC3020_O7000_000EY | Product Name=Iconica Ring | Price=4050 | Link=https://www.pomellato.com/us_en/iconica-ring-pac3020-o7000-000ey?size=19
+2026-03-10 14:16:20,556 - WARNING - Description not found for Iconica Earrings
+2026-03-10 14:16:20,615 - INFO - Product scraped: SKU=POC3020_O7000_000TL | Product Name=Iconica Earrings | Price=8050 | Link=https://www.pomellato.com/us_en/iconica-earrings-poc3020-o7000-000tl?size=152
+2026-03-10 14:16:33,454 - WARNING - Description not found for Iconica Earrings
+2026-03-10 14:16:33,497 - INFO - Product scraped: SKU=POC3020_O7000_000GP | Product Name=Iconica Earrings | Price=7850 | Link=https://www.pomellato.com/us_en/iconica-earrings-poc3020-o7000-000gp?size=152
+2026-03-10 14:16:46,238 - WARNING - Description not found for Iconica Earrings
+2026-03-10 14:16:46,274 - INFO - Product scraped: SKU=POC3020_O7000_000EY | Product Name=Iconica Earrings | Price=8250 | Link=https://www.pomellato.com/us_en/iconica-earrings-poc3020-o7000-000ey?size=152
+2026-03-10 14:16:59,077 - WARNING - Description not found for Iconica Necklace
+2026-03-10 14:16:59,116 - INFO - Product scraped: SKU=PCC3020_O7000_000TL | Product Name=Iconica Necklace | Price=8550 | Link=https://www.pomellato.com/us_en/iconica-necklace-pcc3020-o7000-000tl?size=162
+2026-03-10 14:17:11,842 - WARNING - Description not found for Iconica Necklace
+2026-03-10 14:17:11,883 - INFO - Product scraped: SKU=PCC3020_O7000_000GP | Product Name=Iconica Necklace | Price=8450 | Link=https://www.pomellato.com/us_en/iconica-necklace-pcc3020-o7000-000gp?size=162
+2026-03-10 14:17:24,638 - WARNING - Description not found for Iconica Necklace
+2026-03-10 14:17:24,674 - INFO - Product scraped: SKU=PCC3020_O7000_000EY | Product Name=Iconica Necklace | Price=8650 | Link=https://www.pomellato.com/us_en/iconica-necklace-pcc3020-o7000-000ey?size=162
+2026-03-10 14:17:37,603 - WARNING - Description not found for Sabbia Ring
+2026-03-10 14:17:37,660 - INFO - Product scraped: SKU=PAC3050_O7WHR_DB0BR | Product Name=Sabbia Ring | Price=2800 | Link=https://www.pomellato.com/us_en/sabbia-ring-pac3050-o7whr-db0br?size=18
+2026-03-10 14:17:50,027 - WARNING - Description not found for Sabbia Ring
+2026-03-10 14:17:50,088 - INFO - Product scraped: SKU=PAC3051_O6BWR_DB0BR | Product Name=Sabbia Ring | Price=4050 | Link=https://www.pomellato.com/us_en/sabbia-ring-pac3051-o6bwr-db0br?size=18
+2026-03-10 14:18:03,398 - WARNING - Description not found for Sabbia Ring
+2026-03-10 14:18:03,458 - INFO - Product scraped: SKU=PAB4070_O7000_DB000 | Product Name=Sabbia Ring | Price=2450 | Link=https://www.pomellato.com/us_en/sabbia-ring-pab4070-o7000-db000?size=18
+2026-03-10 14:18:16,291 - WARNING - Description not found for Sabbia Earring
+2026-03-10 14:18:16,346 - INFO - Product scraped: SKU=PHC3052_O7WHR_DBRB0 | Product Name=Sabbia Earring | Price=2800 | Link=https://www.pomellato.com/us_en/sabbia-earring-phc3052-o7whr-dbrb0?size=152
+2026-03-10 14:18:29,153 - WARNING - Description not found for Sabbia Earring
+2026-03-10 14:18:29,219 - INFO - Product scraped: SKU=PHC3052_O6BWR_DB0BR | Product Name=Sabbia Earring | Price=3750 | Link=https://www.pomellato.com/us_en/sabbia-earring-phc3052-o6bwr-db0br?size=152
+2026-03-10 14:18:41,964 - WARNING - Description not found for Sabbia Earrings
+2026-03-10 14:18:42,012 - INFO - Product scraped: SKU=POB2042_O7000_DB000 | Product Name=Sabbia Earrings | Price=4800 | Link=https://www.pomellato.com/us_en/sabbia-earrings-pob2042-o7000-db000?size=152
+2026-03-10 14:18:54,857 - WARNING - Description not found for Catene Ring
+2026-03-10 14:18:54,913 - INFO - Product scraped: SKU=PAC3010_O7000_00000 | Product Name=Catene Ring | Price=7000 | Link=https://www.pomellato.com/us_en/catene-ring-pac3010-o7000-00000?size=19
+2026-03-10 14:19:07,849 - WARNING - Description not found for Catene Ring
+2026-03-10 14:19:07,890 - INFO - Product scraped: SKU=PAC3011_O7000_DB000 | Product Name=Catene Ring | Price=15250 | Link=https://www.pomellato.com/us_en/catene-ring-pac3011-o7000-db000?size=19
+2026-03-10 14:19:20,703 - WARNING - Description not found for Catene Ring
+2026-03-10 14:19:20,761 - INFO - Product scraped: SKU=PAC3011_O2WHR_DB000 | Product Name=Catene Ring | Price=16700 | Link=https://www.pomellato.com/us_en/catene-ring-pac3011-o2whr-db000?size=21
+2026-03-10 14:19:33,523 - WARNING - Description not found for Catene Earrings
+2026-03-10 14:19:33,553 - INFO - Product scraped: SKU=POC1010_O7000_00000 | Product Name=Catene Earrings | Price=7600 | Link=https://www.pomellato.com/us_en/catene-earrings-poc1010-o7000-00000?size=152
+2026-03-10 14:19:47,003 - WARNING - Description not found for Nudo Classic Ring
+2026-03-10 14:19:47,064 - INFO - Product scraped: SKU=PAB9040_O6BKR_TZMPA | Product Name=Nudo Classic Ring | Price=4050 | Link=https://www.pomellato.com/us_en/nudo-classic-ring-pab9040-o6bkr-tzmpa?size=18
+2026-03-10 14:20:00,058 - WARNING - Description not found for Nudo Petit Ring
+2026-03-10 14:20:00,126 - INFO - Product scraped: SKU=PAC3000_O6BKR_TZMPA | Product Name=Nudo Petit Ring | Price=3250 | Link=https://www.pomellato.com/us_en/nudo-petit-ring-pac3000-o6bkr-tzmpa?size=18
+2026-03-10 14:20:13,082 - WARNING - Description not found for Nudo Classic Earrings
+2026-03-10 14:20:13,149 - INFO - Product scraped: SKU=POC3000_O6BKR_TZMPA | Product Name=Nudo Classic Earrings | Price=5100 | Link=https://www.pomellato.com/us_en/nudo-classic-earrings-poc3000-o6bkr-tzmpa?size=152
+2026-03-10 14:20:26,133 - WARNING - Description not found for Nudo Classic Ring
+2026-03-10 14:20:26,221 - INFO - Product scraped: SKU=PAB9040_O6BKR_OI0GL | Product Name=Nudo Classic Ring | Price=4050 | Link=https://www.pomellato.com/us_en/nudo-classic-ring-pab9040-o6bkr-oi0gl?size=18
+2026-03-10 14:20:39,174 - WARNING - Description not found for Nudo Petit Ring
+2026-03-10 14:20:39,224 - INFO - Product scraped: SKU=PAC3000_O6BKR_OI0GL | Product Name=Nudo Petit Ring | Price=3250 | Link=https://www.pomellato.com/us_en/nudo-petit-ring-pac3000-o6bkr-oi0gl?size=18
+2026-03-10 14:20:51,849 - WARNING - Description not found for Nudo Classic Earrings
+2026-03-10 14:20:51,893 - INFO - Product scraped: SKU=POC3000_O6BKR_OI0GL | Product Name=Nudo Classic Earrings | Price=5100 | Link=https://www.pomellato.com/us_en/nudo-classic-earrings-poc3000-o6bkr-oi0gl?size=152
+2026-03-10 14:21:04,899 - WARNING - Description not found for Nudo Classic Ring
+2026-03-10 14:21:04,960 - INFO - Product scraped: SKU=PAB9040_O6BKR_ZALTL | Product Name=Nudo Classic Ring | Price=5650 | Link=https://www.pomellato.com/us_en/nudo-classic-ring-pab9040-o6bkr-zaltl?size=18
+2026-03-10 14:21:18,019 - WARNING - Description not found for Nudo Petit Ring
+2026-03-10 14:21:18,070 - INFO - Product scraped: SKU=PAC3000_O6BKR_ZALTL | Product Name=Nudo Petit Ring | Price=4300 | Link=https://www.pomellato.com/us_en/nudo-petit-ring-pac3000-o6bkr-zaltl?size=18
+2026-03-10 14:21:30,966 - WARNING - Description not found for Nudo Classic Earrings
+2026-03-10 14:21:31,023 - INFO - Product scraped: SKU=POC3000_O6BKR_ZALTL | Product Name=Nudo Classic Earrings | Price=6900 | Link=https://www.pomellato.com/us_en/nudo-classic-earrings-poc3000-o6bkr-zaltl?size=152
+2026-03-10 14:21:43,822 - WARNING - Description not found for Nudo Classic Earrings
+2026-03-10 14:21:43,894 - INFO - Product scraped: SKU=POB4010_O6WHR_DB0TB | Product Name=Nudo Classic Earrings | Price=6000 | Link=https://www.pomellato.com/us_en/nudo-classic-earrings-pob4010-o6whr-db0tb?size=152
+2026-03-10 14:21:57,354 - WARNING - Description not found for Nudo Bracelet
+2026-03-10 14:21:57,411 - INFO - Product scraped: SKU=PBC1006_O7WHR_DB0PA | Product Name=Nudo Bracelet | Price=10650 | Link=https://www.pomellato.com/us_en/nudo-bracelet-pbc1006-o7whr-db0pa?size=5
+2026-03-10 14:22:10,283 - WARNING - Description not found for Nudo Classic Necklace with Pendant
+2026-03-10 14:22:10,319 - INFO - Product scraped: SKU=PCC2022_O6WHR_DB0PA | Product Name=Nudo Classic Necklace with Pendant | Price=3850 | Link=https://www.pomellato.com/us_en/nudo-classic-necklace-with-pendant-pcc2022-o6whr-db0pa?size=154
+2026-03-10 14:22:23,826 - WARNING - Description not found for Pomellato Together Ring
+2026-03-10 14:22:23,929 - INFO - Product scraped: SKU=PAC0100_O7WHR_DB000 | Product Name=Pomellato Together Ring | Price=4500 | Link=https://www.pomellato.com/us_en/pomellato-together-ring-pac0100-o7whr-db000?size=18
+2026-03-10 14:22:36,990 - WARNING - Description not found for Pomellato Together Bangle
+2026-03-10 14:22:37,066 - INFO - Product scraped: SKU=PBC3070_O7WHR_DB000 | Product Name=Pomellato Together Bangle | Price=12450 | Link=https://www.pomellato.com/us_en/pomellato-together-bangle-pbc3070-o7whr-db000?size=5
+2026-03-10 14:22:50,776 - WARNING - Description not found for Pomellato Together Earrings
+2026-03-10 14:22:50,822 - INFO - Product scraped: SKU=POB8111_O7000_DB000 | Product Name=Pomellato Together Earrings | Price=4700 | Link=https://www.pomellato.com/us_en/pomellato-together-earrings-pob8111-o7000-db000?size=152
+2026-03-10 14:23:05,113 - WARNING - Description not found for Pomellato Together Ring
+2026-03-10 14:23:05,163 - INFO - Product scraped: SKU=PAC0100_O7BKR_DBR00 | Product Name=Pomellato Together Ring | Price=3750 | Link=https://www.pomellato.com/us_en/pomellato-together-ring-pac0100-o7bkr-dbr00?size=18
+2026-03-10 14:23:18,363 - WARNING - Description not found for Pomellato Together Ring
+2026-03-10 14:23:18,397 - INFO - Product scraped: SKU=PAC0100_O2WHR_DB000 | Product Name=Pomellato Together Ring | Price=4700 | Link=https://www.pomellato.com/us_en/pomellato-together-ring-pac0100-o2whr-db000?size=19
+2026-03-10 14:23:32,030 - WARNING - Description not found for Sabbia Ring
+2026-03-10 14:23:32,097 - INFO - Product scraped: SKU=PAB2040_O7000_DBR00 | Product Name=Sabbia Ring | Price=3450 | Link=https://www.pomellato.com/us_en/sabbia-ring-pab2040-o7000-dbr00?size=18
+2026-03-10 14:23:45,459 - WARNING - Description not found for Pomellato Together Earrings
+2026-03-10 14:23:45,491 - INFO - Product scraped: SKU=POB8111_O2WHR_DB000 | Product Name=Pomellato Together Earrings | Price=4800 | Link=https://www.pomellato.com/us_en/pomellato-together-earrings-pob8111-o2whr-db000?size=152
+2026-03-10 14:23:58,644 - WARNING - Description not found for Nudo Assoluto Ring
+2026-03-10 14:23:58,710 - INFO - Product scraped: SKU=PAC2026_O6WHR_DB000 | Product Name=Nudo Assoluto Ring | Price=18200 | Link=https://www.pomellato.com/us_en/nudo-assoluto-ring-pac2026-o6whr-db000?size=18
+2026-03-10 14:24:11,717 - WARNING - Description not found for Nudo Classic Ring
+2026-03-10 14:24:11,768 - INFO - Product scraped: SKU=PAC2028_O6WHR_DB000 | Product Name=Nudo Classic Ring | Price=9850 | Link=https://www.pomellato.com/us_en/nudo-classic-ring-pac2028-o6whr-db000?size=19
+2026-03-10 14:24:24,808 - WARNING - Description not found for Nudo Petit Ring
+2026-03-10 14:24:24,893 - INFO - Product scraped: SKU=PAC2100_FBWHR_GV105 | Product Name=Nudo Petit Ring | Price=12400 | Link=https://www.pomellato.com/us_en/nudo-petit-ring-pac2100-fbwhr-gv105?size=18
+2026-03-10 14:24:37,692 - WARNING - Description not found for Nudo Bracelet
+2026-03-10 14:24:37,727 - INFO - Product scraped: SKU=PBC2027_O2WHR_DB0TB | Product Name=Nudo Bracelet | Price=13300 | Link=https://www.pomellato.com/us_en/nudo-bracelet-pbc2027-o2whr-db0tb?size=5
+2026-03-10 14:24:50,510 - WARNING - Description not found for Nudo Bracelet
+2026-03-10 14:24:50,557 - INFO - Product scraped: SKU=PBC2027_O7000_DBRTB | Product Name=Nudo Bracelet | Price=10500 | Link=https://www.pomellato.com/us_en/nudo-bracelet-pbc2027-o7000-dbrtb?size=5
+2026-03-10 14:25:03,467 - WARNING - Description not found for Nudo Classic Ring
+2026-03-10 14:25:03,500 - INFO - Product scraped: SKU=PAC2028_O6000_DBR00 | Product Name=Nudo Classic Ring | Price=8000 | Link=https://www.pomellato.com/us_en/nudo-classic-ring-pac2028-o6000-dbr00?size=19
+2026-03-10 14:25:16,586 - WARNING - Description not found for Nudo Petit Ring
+2026-03-10 14:25:16,662 - INFO - Product scraped: SKU=PAC2501_O6000_DBR00 | Product Name=Nudo Petit Ring | Price=3600 | Link=https://www.pomellato.com/us_en/nudo-petit-ring-pac2501-o6000-dbr00?size=19
+2026-03-10 14:25:30,383 - WARNING - Description not found for Nudo Petit Ring
+2026-03-10 14:25:30,446 - INFO - Product scraped: SKU=PAB7040_O6WHR_DB0TB | Product Name=Nudo Petit Ring | Price=4250 | Link=https://www.pomellato.com/us_en/nudo-petit-ring-pab7040-o6whr-db0tb?size=18
+2026-03-10 14:25:43,951 - WARNING - Description not found for Nudo Classic Necklace with Pendant
+2026-03-10 14:25:44,034 - INFO - Product scraped: SKU=PCC2022_O6WHR_BTBMP | Product Name=Nudo Classic Necklace with Pendant | Price=3550 | Link=https://www.pomellato.com/us_en/nudo-classic-necklace-with-pendant-pcc2022-o6whr-btbmp?size=154
+2026-03-10 14:25:56,739 - WARNING - Description not found for Nudo Earrings
+2026-03-10 14:25:56,793 - INFO - Product scraped: SKU=POC2025_O7WHR_BTBMP | Product Name=Nudo Earrings | Price=8650 | Link=https://www.pomellato.com/us_en/nudo-earrings-poc2025-o7whr-btbmp?size=152
+2026-03-10 14:26:11,349 - WARNING - Description not found for Nudo Classic Ring
+2026-03-10 14:26:11,409 - INFO - Product scraped: SKU=PAA1100_O6000_000TB | Product Name=Nudo Classic Ring | Price=2600 | Link=https://www.pomellato.com/us_en/nudo-classic-ring-paa1100-o6000-000tb?size=18
+2026-03-10 14:26:24,245 - WARNING - Description not found for Iconica Medium Ring
+2026-03-10 14:26:24,297 - INFO - Product scraped: SKU=PA91060_O7000_DB000 | Product Name=Iconica Medium Ring | Price=6050 | Link=https://www.pomellato.com/us_en/iconica-medium-ring-pa91060-o7000-db000?size=19
+2026-03-10 14:26:36,982 - WARNING - Description not found for Iconica Earrings
+2026-03-10 14:26:37,013 - INFO - Product scraped: SKU=POC2063_O7WHR_DB000 | Product Name=Iconica Earrings | Price=27600 | Link=https://www.pomellato.com/us_en/iconica-earrings-poc2063-o7whr-db000?size=152
+2026-03-10 14:26:49,896 - WARNING - Description not found for Iconica Ring
+2026-03-10 14:26:49,966 - INFO - Product scraped: SKU=PAB7120_O7000_DB000 | Product Name=Iconica Ring | Price=6650 | Link=https://www.pomellato.com/us_en/iconica-ring-pab7120-o7000-db000?size=18
+2026-03-10 14:27:02,893 - WARNING - Description not found for Sabbia Ring
+2026-03-10 14:27:02,960 - INFO - Product scraped: SKU=PAB6070_O7000_DBX00 | Product Name=Sabbia Ring | Price=10100 | Link=https://www.pomellato.com/us_en/sabbia-ring-pab6070-o7000-dbx00?size=18
+2026-03-10 14:27:15,910 - WARNING - Description not found for Sabbia Pendant
+2026-03-10 14:27:15,958 - INFO - Product scraped: SKU=PMB6070_O7000_DBX00 | Product Name=Sabbia Pendant | Price=14400 | Link=https://www.pomellato.com/us_en/sabbia-pendant-pmb6070-o7000-dbx00?size=152
+2026-03-10 14:27:29,442 - WARNING - Description not found for Iconica Large Ring
+2026-03-10 14:27:29,485 - INFO - Product scraped: SKU=PA91067_O7000_00000 | Product Name=Iconica Large Ring | Price=4150 | Link=https://www.pomellato.com/us_en/iconica-large-ring-pa91067-o7000-00000?size=18
+2026-03-10 14:27:42,305 - WARNING - Description not found for Iconica Medium Bracelet
+2026-03-10 14:27:42,335 - INFO - Product scraped: SKU=PBB7126_O7000_00000 | Product Name=Iconica Medium Bracelet | Price=14150 | Link=https://www.pomellato.com/us_en/iconica-medium-bracelet-pbb7126-o7000-00000?size=6
+2026-03-10 14:27:55,478 - WARNING - Description not found for Iconica Earrings
+2026-03-10 14:27:55,498 - INFO - Product scraped: SKU=POC2062_O7000_00000 | Product Name=Iconica Earrings | Price=8550 | Link=https://www.pomellato.com/us_en/iconica-earrings-poc2062-o7000-00000?size=152
+2026-03-10 14:28:08,713 - WARNING - Description not found for Iconica Slim Ring
+2026-03-10 14:28:08,768 - INFO - Product scraped: SKU=PA9106E_O7000_DB000 | Product Name=Iconica Slim Ring | Price=5000 | Link=https://www.pomellato.com/us_en/iconica-slim-ring-pa9106e-o7000-db000?size=19
+2026-03-10 14:28:21,892 - WARNING - Description not found for Iconica Earrings
+2026-03-10 14:28:22,042 - INFO - Product scraped: SKU=POC2061_O7000_DB000 | Product Name=Iconica Earrings | Price=7300 | Link=https://www.pomellato.com/us_en/iconica-earrings-poc2061-o7000-db000?size=152
+2026-03-10 14:28:35,628 - WARNING - Description not found for Iconica Medium Bracelet
+2026-03-10 14:28:35,674 - INFO - Product scraped: SKU=PBB7128_O7WHR_DB000 | Product Name=Iconica Medium Bracelet | Price=21400 | Link=https://www.pomellato.com/us_en/iconica-medium-bracelet-pbb7128-o7whr-db000?size=6
+2026-03-10 14:28:49,023 - WARNING - Description not found for Iconica Slim Bracelet
+2026-03-10 14:28:49,067 - INFO - Product scraped: SKU=PBB7129_O7WHR_DB000 | Product Name=Iconica Slim Bracelet | Price=17000 | Link=https://www.pomellato.com/us_en/iconica-slim-bracelet-pbb7129-o7whr-db000?size=5
+2026-03-10 14:29:02,310 - WARNING - Description not found for Iconica Large Ring
+2026-03-10 14:29:02,339 - INFO - Product scraped: SKU=PA9106D_O7000_DB000 | Product Name=Iconica Large Ring | Price=7300 | Link=https://www.pomellato.com/us_en/iconica-large-ring-pa9106d-o7000-db000?size=18
+2026-03-10 14:29:15,357 - WARNING - Description not found for Iconica Necklace With Pendant
+2026-03-10 14:29:15,472 - INFO - Product scraped: SKU=PCB9010_O7000_000VA | Product Name=Iconica Necklace With Pendant | Price=2800 | Link=https://www.pomellato.com/us_en/iconica-necklace-with-pendant-pcb9010-o7000-000va?size=156
+2026-03-10 14:29:34,805 - WARNING - Description not found for Iconica Earrings
+2026-03-10 14:29:34,911 - INFO - Product scraped: SKU=POC1002_O7000_000VA | Product Name=Iconica Earrings | Price=7450 | Link=https://www.pomellato.com/us_en/iconica-earrings-poc1002-o7000-000va?size=152
+2026-03-10 14:29:48,018 - WARNING - Description not found for Iconica Slim Ring
+2026-03-10 14:29:48,104 - INFO - Product scraped: SKU=PAC2062_O7000_000VA | Product Name=Iconica Slim Ring | Price=5100 | Link=https://www.pomellato.com/us_en/iconica-slim-ring-pac2062-o7000-000va?size=18
+2026-03-10 14:30:01,010 - WARNING - Description not found for Nudo Petit Earrings
+2026-03-10 14:30:01,114 - INFO - Product scraped: SKU=POB2010_O6000_000QR | Product Name=Nudo Petit Earrings | Price=3800 | Link=https://www.pomellato.com/us_en/nudo-petit-earrings-pob2010-o6000-000qr?size=152
+2026-03-10 14:30:14,849 - WARNING - Description not found for Nudo Petit Ring
+2026-03-10 14:30:14,949 - INFO - Product scraped: SKU=PAB4030_O6000_000QR | Product Name=Nudo Petit Ring | Price=2000 | Link=https://www.pomellato.com/us_en/nudo-petit-ring-pab4030-o6000-000qr?size=18
+2026-03-10 14:30:34,565 - WARNING - Description not found for Nudo Classic Necklace with Pendant
+2026-03-10 14:30:34,632 - INFO - Product scraped: SKU=PCC2022_O7000_BRCQR | Product Name=Nudo Classic Necklace with Pendant | Price=3350 | Link=https://www.pomellato.com/us_en/nudo-classic-necklace-with-pendant-pcc2022-o7000-brcqr?size=154
+2026-03-10 14:30:47,761 - WARNING - Description not found for Ring Nudo Gele Classic
+2026-03-10 14:30:47,805 - INFO - Product scraped: SKU=PAA1100_O6000_SOVCY | Product Name=Ring Nudo Gele Classic | Price=3200 | Link=https://www.pomellato.com/us_en/ring-nudo-gele-classic-paa1100-o6000-sovcy?size=19
+2026-03-10 14:31:00,675 - WARNING - Description not found for Nudo Classic Necklace with Pendant
+2026-03-10 14:31:00,737 - INFO - Product scraped: SKU=PCC2022_O6WHR_DB0TL | Product Name=Nudo Classic Necklace with Pendant | Price=4300 | Link=https://www.pomellato.com/us_en/nudo-classic-necklace-with-pendant-pcc2022-o6whr-db0tl?size=154
+2026-03-10 14:31:16,150 - WARNING - Description not found for Nudo Earrings
+2026-03-10 14:31:16,229 - INFO - Product scraped: SKU=POC2025_O7WHR_DB0TL | Product Name=Nudo Earrings | Price=11400 | Link=https://www.pomellato.com/us_en/nudo-earrings-poc2025-o7whr-db0tl?size=152
+2026-03-10 14:31:29,821 - WARNING - Description not found for Nudo Classic Ring
+2026-03-10 14:31:29,871 - INFO - Product scraped: SKU=PAC0040_O6WHR_B0TTU | Product Name=Nudo Classic Ring | Price=6350 | Link=https://www.pomellato.com/us_en/nudo-classic-ring-pac0040-o6whr-b0ttu?size=19
+2026-03-10 14:31:42,808 - WARNING - Description not found for Nudo Classic Necklace with Pendant
+2026-03-10 14:31:42,872 - INFO - Product scraped: SKU=PCC2022_O6WHR_DB0OY | Product Name=Nudo Classic Necklace with Pendant | Price=4350 | Link=https://www.pomellato.com/us_en/nudo-classic-necklace-with-pendant-pcc2022-o6whr-db0oy?size=27
+2026-03-10 14:31:55,984 - WARNING - Description not found for Nudo Petit Ring
+2026-03-10 14:31:56,055 - INFO - Product scraped: SKU=PAB7040_O6WHR_DB0OY | Product Name=Nudo Petit Ring | Price=4400 | Link=https://www.pomellato.com/us_en/nudo-petit-ring-pab7040-o6whr-db0oy?size=19
+2026-03-10 14:32:08,888 - WARNING - Description not found for Nudo Bracelet
+2026-03-10 14:32:08,966 - INFO - Product scraped: SKU=PBC1006_O7WHR_BTBMP | Product Name=Nudo Bracelet | Price=10300 | Link=https://www.pomellato.com/us_en/nudo-bracelet-pbc1006-o7whr-btbmp?size=5
+2026-03-10 14:32:21,897 - WARNING - Description not found for Nudo Necklace
+2026-03-10 14:32:21,972 - INFO - Product scraped: SKU=PCB9051_O6000_DB0VA | Product Name=Nudo Necklace | Price=9500 | Link=https://www.pomellato.com/us_en/nudo-necklace-pcb9051-o6000-db0va?size=20
+2026-03-10 14:32:34,829 - WARNING - Description not found for Nudo Bracelet
+2026-03-10 14:32:34,916 - INFO - Product scraped: SKU=PBC1006_O7WHR_DB0OY | Product Name=Nudo Bracelet | Price=10650 | Link=https://www.pomellato.com/us_en/nudo-bracelet-pbc1006-o7whr-db0oy?size=6
+2026-03-10 14:32:48,369 - WARNING - Description not found for Nudo Classic Ring
+2026-03-10 14:32:48,471 - INFO - Product scraped: SKU=PAC0040_O6WHR_DB0TB | Product Name=Nudo Classic Ring | Price=5550 | Link=https://www.pomellato.com/us_en/nudo-classic-ring-pac0040-o6whr-db0tb?size=18
+2026-03-10 14:33:01,290 - WARNING - Description not found for Nudo Bracelet
+2026-03-10 14:33:01,363 - INFO - Product scraped: SKU=PBC1006_O7000_BRQRC | Product Name=Nudo Bracelet | Price=9300 | Link=https://www.pomellato.com/us_en/nudo-bracelet-pbc1006-o7000-brqrc?size=5
+2026-03-10 14:33:14,436 - WARNING - Description not found for Nudo Classic Ring
+2026-03-10 14:33:14,463 - INFO - Product scraped: SKU=PAA1100_O6000_000QR | Product Name=Nudo Classic Ring | Price=2600 | Link=https://www.pomellato.com/us_en/nudo-classic-ring-paa1100-o6000-000qr?size=18
+2026-03-10 14:33:27,265 - WARNING - Description not found for Nudo Classic Earrings
+2026-03-10 14:33:27,380 - INFO - Product scraped: SKU=POB4010_O6000_BRCQR | Product Name=Nudo Classic Earrings | Price=5750 | Link=https://www.pomellato.com/us_en/nudo-classic-earrings-pob4010-o6000-brcqr?size=152
+2026-03-10 14:33:40,670 - WARNING - Description not found for Nudo Classic Earrings
+2026-03-10 14:33:40,712 - INFO - Product scraped: SKU=POB4010_O6000_DB0OY | Product Name=Nudo Classic Earrings | Price=6600 | Link=https://www.pomellato.com/us_en/nudo-classic-earrings-pob4010-o6000-db0oy?size=152
+2026-03-10 14:33:53,593 - WARNING - Description not found for Nudo Necklace
+2026-03-10 14:33:53,647 - INFO - Product scraped: SKU=PCB9051_O6000_DB0OY | Product Name=Nudo Necklace | Price=10100 | Link=https://www.pomellato.com/us_en/nudo-necklace-pcb9051-o6000-db0oy?size=20
+2026-03-10 14:34:06,657 - WARNING - Description not found for Nudo Bracelet
+2026-03-10 14:34:06,704 - INFO - Product scraped: SKU=PBC1006_O7WHR_DB0TL | Product Name=Nudo Bracelet | Price=11800 | Link=https://www.pomellato.com/us_en/nudo-bracelet-pbc1006-o7whr-db0tl?size=6
+2026-03-10 14:34:19,876 - WARNING - Description not found for Nudo Classic Ring
+2026-03-10 14:34:19,923 - INFO - Product scraped: SKU=PAA1100_O6000_000TL | Product Name=Nudo Classic Ring | Price=3550 | Link=https://www.pomellato.com/us_en/nudo-classic-ring-paa1100-o6000-000tl?size=18
+2026-03-10 14:34:35,380 - WARNING - Description not found for Nudo Classic Earrings
+2026-03-10 14:34:35,460 - INFO - Product scraped: SKU=POB4010_O6WHR_B0TTU | Product Name=Nudo Classic Earrings | Price=8000 | Link=https://www.pomellato.com/us_en/nudo-classic-earrings-pob4010-o6whr-b0ttu?size=152
+2026-03-10 14:34:48,962 - WARNING - Description not found for Nudo Classic Ring
+2026-03-10 14:34:49,011 - INFO - Product scraped: SKU=PAB9050_OT000_DBKOS | Product Name=Nudo Classic Ring | Price=4200 | Link=https://www.pomellato.com/us_en/nudo-classic-ring-pab9050-ot000-dbkos?size=18
+2026-03-10 14:35:02,761 - WARNING - Description not found for Iconica Large Ring
+2026-03-10 14:35:02,851 - INFO - Product scraped: SKU=PAB9012_O7000_000VA | Product Name=Iconica Large Ring | Price=8550 | Link=https://www.pomellato.com/us_en/iconica-large-ring-pab9012-o7000-000va?size=18
+2026-03-10 14:35:16,050 - WARNING - Description not found for Iconica Bangle
+2026-03-10 14:35:16,132 - INFO - Product scraped: SKU=PBC1001_O7000_000VA | Product Name=Iconica Bangle | Price=17350 | Link=https://www.pomellato.com/us_en/iconica-bangle-pbc1001-o7000-000va?size=5
+2026-03-10 14:35:29,520 - WARNING - Description not found for Iconica Medium Ring
+2026-03-10 14:35:29,628 - INFO - Product scraped: SKU=PAB9011_O7000_000VA | Product Name=Iconica Medium Ring | Price=6050 | Link=https://www.pomellato.com/us_en/iconica-medium-ring-pab9011-o7000-000va?size=18
+2026-03-10 14:35:42,971 - WARNING - Description not found for Iconica Necklace With Pendant
+2026-03-10 14:35:43,010 - INFO - Product scraped: SKU=PCB7122_O7000_DB000 | Product Name=Iconica Necklace With Pendant | Price=2800 | Link=https://www.pomellato.com/us_en/iconica-necklace-with-pendant-pcb7122-o7000-db000?size=156
+2026-03-10 14:35:55,956 - WARNING - Description not found for Iconica Bangle
+2026-03-10 14:35:55,997 - INFO - Product scraped: SKU=PBC1000_O7000_DB000 | Product Name=Iconica Bangle | Price=14000 | Link=https://www.pomellato.com/us_en/iconica-bangle-pbc1000-o7000-db000?size=5
+2026-03-10 14:36:09,138 - WARNING - Description not found for Fantina Ring
+2026-03-10 14:36:09,182 - INFO - Product scraped: SKU=PAC0090_O7WHR_DB000 | Product Name=Fantina Ring | Price=7000 | Link=https://www.pomellato.com/us_en/fantina-ring-pac0090-o7whr-db000?size=18
+2026-03-10 14:36:22,082 - WARNING - Description not found for Fantina Necklace
+2026-03-10 14:36:22,148 - INFO - Product scraped: SKU=PCC1021_O7000_DB000 | Product Name=Fantina Necklace | Price=11050 | Link=https://www.pomellato.com/us_en/fantina-necklace-pcc1021-o7000-db000?size=152
+2026-03-10 14:36:35,771 - WARNING - Description not found for Catene Ring
+2026-03-10 14:36:35,851 - INFO - Product scraped: SKU=PAC1011_O7000_DB000 | Product Name=Catene Ring | Price=7000 | Link=https://www.pomellato.com/us_en/catene-ring-pac1011-o7000-db000?size=18
+2026-03-10 14:36:48,836 - WARNING - Description not found for Fantina Earrings
+2026-03-10 14:36:48,907 - INFO - Product scraped: SKU=POC1021_O7000_DB000 | Product Name=Fantina Earrings | Price=7500 | Link=https://www.pomellato.com/us_en/fantina-earrings-poc1021-o7000-db000?size=152
+2026-03-10 14:37:02,418 - WARNING - Description not found for Sabbia Ring
+2026-03-10 14:37:02,467 - INFO - Product scraped: SKU=PAB4070_O7000_DBR00 | Product Name=Sabbia Ring | Price=1750 | Link=https://www.pomellato.com/us_en/sabbia-ring-pab4070-o7000-dbr00?size=18
+2026-03-10 14:37:15,933 - WARNING - Description not found for Sabbia Ring
+2026-03-10 14:37:15,994 - INFO - Product scraped: SKU=PAC0010_07BWR_DBX00 | Product Name=Sabbia Ring | Price=9000 | Link=https://www.pomellato.com/us_en/sabbia-ring-pac0010-07bwr-dbx00?size=19
+2026-03-10 14:37:28,960 - WARNING - Description not found for Fantina Bracelet
+2026-03-10 14:37:28,995 - INFO - Product scraped: SKU=PBC0091_O7WHR_DB000 | Product Name=Fantina Bracelet | Price=18750 | Link=https://www.pomellato.com/us_en/fantina-bracelet-pbc0091-o7whr-db000?size=6
+2026-03-10 14:37:42,146 - WARNING - Description not found for Nudo Petit Necklace with Pendant
+2026-03-10 14:37:42,214 - INFO - Product scraped: SKU=PCB6010_O6000_000TL | Product Name=Nudo Petit Necklace with Pendant | Price=3200 | Link=https://www.pomellato.com/us_en/nudo-petit-necklace-with-pendant-pcb6010-o6000-000tl?size=154
+2026-03-10 14:37:55,225 - WARNING - Description not found for Nudo Petit Earrings
+2026-03-10 14:37:55,276 - INFO - Product scraped: SKU=POB2010_O6000_000TL | Product Name=Nudo Petit Earrings | Price=5250 | Link=https://www.pomellato.com/us_en/nudo-petit-earrings-pob2010-o6000-000tl?size=152
+2026-03-10 14:38:08,638 - WARNING - Description not found for Nudo Classic Ring
+2026-03-10 14:38:08,689 - INFO - Product scraped: SKU=PAA1100_O6000_000OY | Product Name=Nudo Classic Ring | Price=2800 | Link=https://www.pomellato.com/us_en/nudo-classic-ring-paa1100-o6000-000oy?size=18
+2026-03-10 14:38:21,985 - WARNING - Description not found for Nudo Petit Ring
+2026-03-10 14:38:22,029 - INFO - Product scraped: SKU=PAB4030_O6000_000TB | Product Name=Nudo Petit Ring | Price=2000 | Link=https://www.pomellato.com/us_en/nudo-petit-ring-pab4030-o6000-000tb?size=18
+2026-03-10 14:38:35,023 - WARNING - Description not found for Nudo Petit Necklace with Pendant
+2026-03-10 14:38:35,088 - INFO - Product scraped: SKU=PCB6010_O6000_000TB | Product Name=Nudo Petit Necklace with Pendant | Price=2450 | Link=https://www.pomellato.com/us_en/nudo-petit-necklace-with-pendant-pcb6010-o6000-000tb?size=154
+2026-03-10 14:38:48,630 - WARNING - Description not found for Nudo Classic Ring
+2026-03-10 14:38:48,677 - INFO - Product scraped: SKU=PAA1100_O6000_000QL | Product Name=Nudo Classic Ring | Price=2600 | Link=https://www.pomellato.com/us_en/nudo-classic-ring-paa1100-o6000-000ql?size=18
+2026-03-10 14:39:02,283 - WARNING - Description not found for Nudo Petit Ring
+2026-03-10 14:39:02,347 - INFO - Product scraped: SKU=PAB7040_O6WHR_DB0PA | Product Name=Nudo Petit Ring | Price=4300 | Link=https://www.pomellato.com/us_en/nudo-petit-ring-pab7040-o6whr-db0pa?size=18
+2026-03-10 14:39:15,313 - WARNING - Description not found for Nudo Petit Earrings
+2026-03-10 14:39:15,368 - INFO - Product scraped: SKU=POB2010_O6000_000PA | Product Name=Nudo Petit Earrings | Price=4250 | Link=https://www.pomellato.com/us_en/nudo-petit-earrings-pob2010-o6000-000pa?size=152
+2026-03-10 14:39:28,790 - WARNING - Description not found for Nudo Petit Necklace with Pendant
+2026-03-10 14:39:28,851 - INFO - Product scraped: SKU=PCB6010_O6000_000PA | Product Name=Nudo Petit Necklace with Pendant | Price=2650 | Link=https://www.pomellato.com/us_en/nudo-petit-necklace-with-pendant-pcb6010-o6000-000pa?size=154
+2026-03-10 14:39:42,771 - WARNING - Description not found for Nudo Classic Ring
+2026-03-10 14:39:42,820 - INFO - Product scraped: SKU=PAC0040_O7000_BRCQR | Product Name=Nudo Classic Ring | Price=4400 | Link=https://www.pomellato.com/us_en/nudo-classic-ring-pac0040-o7000-brcqr?size=18
+2026-03-10 14:39:56,752 - WARNING - Description not found for Nudo Petit Ring
+2026-03-10 14:39:56,814 - INFO - Product scraped: SKU=PAB7040_O6000_BRCQR | Product Name=Nudo Petit Ring | Price=3450 | Link=https://www.pomellato.com/us_en/nudo-petit-ring-pab7040-o6000-brcqr?size=18
+2026-03-10 14:40:10,216 - WARNING - Description not found for Nudo Classic Earrings
+2026-03-10 14:40:10,289 - INFO - Product scraped: SKU=POB4010_O6WHR_B0YAV | Product Name=Nudo Classic Earrings | Price=6950 | Link=https://www.pomellato.com/us_en/nudo-classic-earrings-pob4010-o6whr-b0yav?size=152
+2026-03-10 14:40:24,076 - WARNING - Description not found for Nudo Petit Ring
+2026-03-10 14:40:24,156 - INFO - Product scraped: SKU=PAB7040_O6WHR_B0TTU | Product Name=Nudo Petit Ring | Price=4750 | Link=https://www.pomellato.com/us_en/nudo-petit-ring-pab7040-o6whr-b0ttu?size=18
+2026-03-10 14:40:37,450 - WARNING - Description not found for Nudo Petit Earrings
+2026-03-10 14:40:37,504 - INFO - Product scraped: SKU=POB2010_O6000_000OY | Product Name=Nudo Petit Earrings | Price=4250 | Link=https://www.pomellato.com/us_en/nudo-petit-earrings-pob2010-o6000-000oy?size=152
+2026-03-10 14:40:51,405 - WARNING - Description not found for Nudo Classic Ring
+2026-03-10 14:40:51,471 - INFO - Product scraped: SKU=PAC0040_O6WHR_DB0PA | Product Name=Nudo Classic Ring | Price=5650 | Link=https://www.pomellato.com/us_en/nudo-classic-ring-pac0040-o6whr-db0pa?size=19
+2026-03-10 14:41:05,205 - WARNING - Description not found for Iconica Bangle
+2026-03-10 14:41:05,244 - INFO - Product scraped: SKU=PBC0101_O7WHR_DB000 | Product Name=Iconica Bangle | Price=24700 | Link=https://www.pomellato.com/us_en/iconica-bangle-pbc0101-o7whr-db000?size=5
+2026-03-10 14:41:18,596 - WARNING - Description not found for Sabbia Bracelet
+2026-03-10 14:41:18,630 - INFO - Product scraped: SKU=PBB7012_O7000_DB000 | Product Name=Sabbia Bracelet | Price=3550 | Link=https://www.pomellato.com/us_en/sabbia-bracelet-pbb7012-o7000-db000?size=5
+2026-03-10 14:41:31,983 - WARNING - Description not found for Gold Necklace
+2026-03-10 14:41:32,015 - INFO - Product scraped: SKU=PCB2142_O7000_00000 | Product Name=Gold Necklace | Price=4700 | Link=https://www.pomellato.com/us_en/gold-necklace-pcb2142-o7000-00000?size=152
+2026-03-10 14:41:45,397 - WARNING - Description not found for Iconica Bangle
+2026-03-10 14:41:45,430 - INFO - Product scraped: SKU=PBC0100_O7000_00000 | Product Name=Iconica Bangle | Price=7600 | Link=https://www.pomellato.com/us_en/iconica-bangle-pbc0100-o7000-00000?size=5
+2026-03-10 14:41:58,959 - WARNING - Description not found for Iconica Earrings
+2026-03-10 14:41:59,004 - INFO - Product scraped: SKU=POB7122_O7WHR_DB000 | Product Name=Iconica Earrings | Price=16250 | Link=https://www.pomellato.com/us_en/iconica-earrings-pob7122-o7whr-db000?size=152
+2026-03-10 14:42:14,049 - WARNING - Description not found for Nudo Maxi Ring
+2026-03-10 14:42:21,377 - INFO - Product scraped: SKU=PAB4010_O6000_BRCQR | Product Name=Nudo Maxi Ring | Price=5100 | Link=https://www.pomellato.com/us_en/nudo-maxi-ring-pab4010-o6000-brcqr?size=18
+2026-03-10 14:42:45,793 - WARNING - Description not found for Nudo Classic Ring
+2026-03-10 14:42:45,863 - INFO - Product scraped: SKU=PAC0040_O6WHR_B0YAV | Product Name=Nudo Classic Ring | Price=5850 | Link=https://www.pomellato.com/us_en/nudo-classic-ring-pac0040-o6whr-b0yav?size=18
+2026-03-10 14:42:59,151 - WARNING - Description not found for Nudo Classic Earrings
+2026-03-10 14:42:59,202 - INFO - Product scraped: SKU=POB4010_O6000_DB0TL | Product Name=Nudo Classic Earrings | Price=7600 | Link=https://www.pomellato.com/us_en/nudo-classic-earrings-pob4010-o6000-db0tl?size=152
+2026-03-10 14:43:28,449 - WARNING - Description not found for Nudo Classic Earrings
+2026-03-10 14:43:28,504 - INFO - Product scraped: SKU=POA1070_O6000_000OY | Product Name=Nudo Classic Earrings | Price=5350 | Link=https://www.pomellato.com/us_en/nudo-classic-earrings-poa1070-o6000-000oy?size=152
+2026-03-10 14:43:41,894 - WARNING - Description not found for Nudo Classic Earrings
+2026-03-10 14:43:41,944 - INFO - Product scraped: SKU=POA1070_O6000_000TL | Product Name=Nudo Classic Earrings | Price=6150 | Link=https://www.pomellato.com/us_en/nudo-classic-earrings-poa1070-o6000-000tl?size=152
+2026-03-10 14:43:56,200 - WARNING - Description not found for Nudo Petit Ring
+2026-03-10 14:43:56,253 - INFO - Product scraped: SKU=PAB4030_O6000_000TL | Product Name=Nudo Petit Ring | Price=2500 | Link=https://www.pomellato.com/us_en/nudo-petit-ring-pab4030-o6000-000tl?size=18
+2026-03-10 14:44:10,307 - WARNING - Description not found for Nudo Petit Ring
+2026-03-10 14:44:10,355 - INFO - Product scraped: SKU=PAB4030_O6000_000OY | Product Name=Nudo Petit Ring | Price=2200 | Link=https://www.pomellato.com/us_en/nudo-petit-ring-pab4030-o6000-000oy?size=18
+2026-03-10 14:44:24,347 - WARNING - Description not found for Nudo Classic Ring
+2026-03-10 14:44:24,400 - INFO - Product scraped: SKU=PAA1100_O6000_000PA | Product Name=Nudo Classic Ring | Price=2800 | Link=https://www.pomellato.com/us_en/nudo-classic-ring-paa1100-o6000-000pa?size=18
+2026-03-10 14:44:38,577 - WARNING - Description not found for Nudo Petit Ring
+2026-03-10 14:44:38,626 - INFO - Product scraped: SKU=PAB4030_O6000_000PA | Product Name=Nudo Petit Ring | Price=2200 | Link=https://www.pomellato.com/us_en/nudo-petit-ring-pab4030-o6000-000pa?size=18
+2026-03-10 14:44:52,716 - WARNING - Description not found for Nudo Petit Ring
+2026-03-10 14:44:52,778 - INFO - Product scraped: SKU=PAB4030_O6000_000QL | Product Name=Nudo Petit Ring | Price=2000 | Link=https://www.pomellato.com/us_en/nudo-petit-ring-pab4030-o6000-000ql?size=18
+2026-03-10 14:45:07,082 - WARNING - Description not found for Nudo Classic Ring
+2026-03-10 14:45:07,134 - INFO - Product scraped: SKU=PAA1100_O6000_000OI | Product Name=Nudo Classic Ring | Price=2600 | Link=https://www.pomellato.com/us_en/nudo-classic-ring-paa1100-o6000-000oi?size=18
+2026-03-10 14:45:21,274 - WARNING - Description not found for Nudo Petit Ring
+2026-03-10 14:45:21,332 - INFO - Product scraped: SKU=PAB4030_O6000_000OI | Product Name=Nudo Petit Ring | Price=2000 | Link=https://www.pomellato.com/us_en/nudo-petit-ring-pab4030-o6000-000oi?size=18
+2026-03-10 14:45:34,656 - WARNING - Description not found for Nudo Petit Earrings
+2026-03-10 14:45:34,704 - INFO - Product scraped: SKU=POB5010_O6000_DB000 | Product Name=Nudo Petit Earrings | Price=10300 | Link=https://www.pomellato.com/us_en/nudo-petit-earrings-pob5010-o6000-db000?size=152
+2026-03-10 14:45:49,704 - WARNING - Description not found for Nudo Petit Ring
+2026-03-10 14:45:49,754 - INFO - Product scraped: SKU=PAB5010_O6000_DB000 | Product Name=Nudo Petit Ring | Price=5700 | Link=https://www.pomellato.com/us_en/nudo-petit-ring-pab5010-o6000-db000?size=18
+2026-03-10 14:46:03,398 - WARNING - Description not found for Nudo Petit Necklace with Pendant
+2026-03-10 14:46:03,445 - INFO - Product scraped: SKU=PCB6012_O6000_DB000 | Product Name=Nudo Petit Necklace with Pendant | Price=5950 | Link=https://www.pomellato.com/us_en/nudo-petit-necklace-with-pendant-pcb6012-o6000-db000?size=154
+2026-03-10 14:46:16,950 - WARNING - Description not found for Iconica Slim Bracelet
+2026-03-10 14:46:16,972 - INFO - Product scraped: SKU=PBB7127_O7000_00000 | Product Name=Iconica Slim Bracelet | Price=10500 | Link=https://www.pomellato.com/us_en/iconica-slim-bracelet-pbb7127-o7000-00000?size=5
+2026-03-10 14:46:30,182 - WARNING - Description not found for Orsetto Pendant
+2026-03-10 14:46:30,216 - INFO - Product scraped: SKU=PMB9022_O7000_DB000 | Product Name=Orsetto Pendant | Price=3150 | Link=https://www.pomellato.com/us_en/orsetto-pendant-pmb9022-o7000-db000?size=152
+2026-03-10 14:46:43,327 - WARNING - Description not found for Orsetto Pendant
+2026-03-10 14:46:43,355 - INFO - Product scraped: SKU=PMB902A_O7000_00000 | Product Name=Orsetto Pendant | Price=1600 | Link=https://www.pomellato.com/us_en/orsetto-pendant-pmb902a-o7000-00000?size=152
+2026-03-10 14:46:57,180 - WARNING - Description not found for Gold Necklace
+2026-03-10 14:46:57,207 - INFO - Product scraped: SKU=PCB2140_O7000_00000 | Product Name=Gold Necklace | Price=3050 | Link=https://www.pomellato.com/us_en/gold-necklace-pcb2140-o7000-00000?size=41
+2026-03-10 14:47:10,816 - WARNING - Description not found for Gold Necklace
+2026-03-10 14:47:10,837 - INFO - Product scraped: SKU=PCB8030_O7000_00000 | Product Name=Gold Necklace | Price=17800 | Link=https://www.pomellato.com/us_en/gold-necklace-pcb8030-o7000-00000?size=152
+2026-03-10 14:47:10,837 - WARNING - Missing hero image | URL=https://www.pomellato.com/us_en/gold-necklace-pca7010-o7000-00000?size=152
+2026-03-10 14:47:10,837 - WARNING - Missing SKU image | URL=https://www.pomellato.com/us_en/gold-necklace-pca7010-o7000-00000?size=152
+2026-03-10 14:47:23,887 - WARNING - Description not found for Gold Necklace
+2026-03-10 14:47:23,914 - INFO - Product scraped: SKU= | Product Name=Gold Necklace | Price=10250 | Link=https://www.pomellato.com/us_en/gold-necklace-pca7010-o7000-00000?size=152
+2026-03-10 14:47:37,595 - WARNING - Description not found for Sabbia Ring
+2026-03-10 14:47:37,635 - INFO - Product scraped: SKU=PAB9032_O7000_DB000 | Product Name=Sabbia Ring | Price=2450 | Link=https://www.pomellato.com/us_en/sabbia-ring-pab9032-o7000-db000?size=22
+2026-03-10 14:47:51,433 - WARNING - Description not found for Sabbia Ring
+2026-03-10 14:47:51,479 - INFO - Product scraped: SKU=PAB9032_O7000_DBR00 | Product Name=Sabbia Ring | Price=1750 | Link=https://www.pomellato.com/us_en/sabbia-ring-pab9032-o7000-dbr00?size=27
+2026-03-10 14:48:05,415 - WARNING - Description not found for Sabbia Ring
+2026-03-10 14:48:05,453 - INFO - Product scraped: SKU=PAB2040_O7000_DB000 | Product Name=Sabbia Ring | Price=6000 | Link=https://www.pomellato.com/us_en/sabbia-ring-pab2040-o7000-db000?size=19
+2026-03-10 14:48:18,720 - WARNING - Description not found for Sabbia Bracelet
+2026-03-10 14:48:18,757 - INFO - Product scraped: SKU=PBB7011_O7000_DBR00 | Product Name=Sabbia Bracelet | Price=3450 | Link=https://www.pomellato.com/us_en/sabbia-bracelet-pbb7011-o7000-dbr00?size=5
+2026-03-10 14:48:32,246 - WARNING - Description not found for Sabbia Earrings
+2026-03-10 14:48:32,282 - INFO - Product scraped: SKU=POB2041_O7000_DBR00 | Product Name=Sabbia Earrings | Price=4800 | Link=https://www.pomellato.com/us_en/sabbia-earrings-pob2041-o7000-dbr00?size=152
+2026-03-10 14:48:45,835 - WARNING - Description not found for Nudo Maxi Ring
+2026-03-10 14:48:45,881 - INFO - Product scraped: SKU=PAB4011_OT000_DBKOS | Product Name=Nudo Maxi Ring | Price=5050 | Link=https://www.pomellato.com/us_en/nudo-maxi-ring-pab4011-ot000-dbkos?size=18
+2026-03-10 14:49:00,181 - WARNING - Description not found for Nudo Maxi Ring
+2026-03-10 14:49:00,223 - INFO - Product scraped: SKU=PAB4010_O6000_DB0OY | Product Name=Nudo Maxi Ring | Price=6550 | Link=https://www.pomellato.com/us_en/nudo-maxi-ring-pab4010-o6000-db0oy?size=18
+2026-03-10 14:49:14,420 - WARNING - Description not found for Nudo Maxi Ring
+2026-03-10 14:49:14,464 - INFO - Product scraped: SKU=PAB4010_O6000_DB0TL | Product Name=Nudo Maxi Ring | Price=7350 | Link=https://www.pomellato.com/us_en/nudo-maxi-ring-pab4010-o6000-db0tl?size=19
+2026-03-10 14:49:28,280 - WARNING - Description not found for Nudo Maxi Ring
+2026-03-10 14:49:28,329 - INFO - Product scraped: SKU=PAB2010_O6000_000OY | Product Name=Nudo Maxi Ring | Price=3600 | Link=https://www.pomellato.com/us_en/nudo-maxi-ring-pab2010-o6000-000oy?size=19
+2026-03-10 14:49:42,440 - WARNING - Description not found for Nudo Maxi Ring
+2026-03-10 14:49:42,511 - INFO - Product scraped: SKU=PAB2010_O6000_000TL | Product Name=Nudo Maxi Ring | Price=4350 | Link=https://www.pomellato.com/us_en/nudo-maxi-ring-pab2010-o6000-000tl?size=19
+2026-03-10 14:49:56,571 - WARNING - Description not found for Nudo Maxi Ring
+2026-03-10 14:49:56,637 - INFO - Product scraped: SKU=PAB2010_O6000_000PA | Product Name=Nudo Maxi Ring | Price=3600 | Link=https://www.pomellato.com/us_en/nudo-maxi-ring-pab2010-o6000-000pa?size=18
+2026-03-10 14:50:10,106 - WARNING - Description not found for Nudo Petit Necklace with Pendant
+2026-03-10 14:50:10,152 - INFO - Product scraped: SKU=PCB6010_O6000_000OY | Product Name=Nudo Petit Necklace with Pendant | Price=2650 | Link=https://www.pomellato.com/us_en/nudo-petit-necklace-with-pendant-pcb6010-o6000-000oy?size=154
+2026-03-10 14:50:23,330 - WARNING - Description not found for Nudo Petit Earrings
+2026-03-10 14:50:23,409 - INFO - Product scraped: SKU=POB2010_O6000_000OI | Product Name=Nudo Petit Earrings | Price=3800 | Link=https://www.pomellato.com/us_en/nudo-petit-earrings-pob2010-o6000-000oi?size=152
+2026-03-10 14:50:36,646 - WARNING - Description not found for Nudo Petit Earrings
+2026-03-10 14:50:36,698 - INFO - Product scraped: SKU=POB2010_O6000_000TB | Product Name=Nudo Petit Earrings | Price=3800 | Link=https://www.pomellato.com/us_en/nudo-petit-earrings-pob2010-o6000-000tb?size=152
+2026-03-10 14:50:50,091 - WARNING - Description not found for Iconica Necklace With Pendant
+2026-03-10 14:50:50,135 - INFO - Product scraped: SKU=PCB7120_O7000_DB000 | Product Name=Iconica Necklace With Pendant | Price=3650 | Link=https://www.pomellato.com/us_en/iconica-necklace-with-pendant-pcb7120-o7000-db000?size=156
+2026-03-10 14:51:03,849 - WARNING - Description not found for Sabbia Earrings
+2026-03-10 14:51:03,889 - INFO - Product scraped: SKU=POB2042_O7000_DBR00 | Product Name=Sabbia Earrings | Price=3200 | Link=https://www.pomellato.com/us_en/sabbia-earrings-pob2042-o7000-dbr00?size=152
+2026-03-10 14:51:17,587 - WARNING - Description not found for Sabbia Ring
+2026-03-10 14:51:17,628 - INFO - Product scraped: SKU=PAC0010_O7WHR_DB000 | Product Name=Sabbia Ring | Price=12100 | Link=https://www.pomellato.com/us_en/sabbia-ring-pac0010-o7whr-db000?size=19
+2026-03-10 14:51:30,776 - WARNING - Description not found for Iconica Large Bracelet
+2026-03-10 14:51:30,826 - INFO - Product scraped: SKU=PBB7124_O7000_00000 | Product Name=Iconica Large Bracelet | Price=24000 | Link=https://www.pomellato.com/us_en/iconica-large-bracelet-pbb7124-o7000-00000?size=6
+2026-03-10 14:51:44,009 - WARNING - Description not found for Nudo Necklace
+2026-03-10 14:51:44,079 - INFO - Product scraped: SKU=PCB9050_O6000_BOYTL | Product Name=Nudo Necklace | Price=32200 | Link=https://www.pomellato.com/us_en/nudo-necklace-pcb9050-o6000-boytl?size=160
+2026-03-10 14:51:57,009 - WARNING - Description not found for Nudo Necklace
+2026-03-10 14:51:57,078 - INFO - Product scraped: SKU=PCB9052_O6000_000TB | Product Name=Nudo Necklace | Price=17700 | Link=https://www.pomellato.com/us_en/nudo-necklace-pcb9052-o6000-000tb?size=160
+2026-03-10 14:52:11,370 - WARNING - Description not found for Nudo Necklace
+2026-03-10 14:52:11,411 - INFO - Product scraped: SKU=PCB9052_O6000_000OY | Product Name=Nudo Necklace | Price=18150 | Link=https://www.pomellato.com/us_en/nudo-necklace-pcb9052-o6000-000oy?size=160
+2026-03-10 14:52:31,252 - WARNING - Description not found for Nudo Maxi Ring
+2026-03-10 14:52:31,302 - INFO - Product scraped: SKU=PAB4010_O6000_DB0PA | Product Name=Nudo Maxi Ring | Price=6550 | Link=https://www.pomellato.com/us_en/nudo-maxi-ring-pab4010-o6000-db0pa?size=18
+2026-03-10 14:52:44,254 - WARNING - Description not found for Nudo Classic Earrings
+2026-03-10 14:52:44,305 - INFO - Product scraped: SKU=POB4010_O6000_DB0PA | Product Name=Nudo Classic Earrings | Price=6600 | Link=https://www.pomellato.com/us_en/nudo-classic-earrings-pob4010-o6000-db0pa?size=152
+2026-03-10 14:52:59,559 - WARNING - Description not found for Nudo Classic Ring
+2026-03-10 14:52:59,620 - INFO - Product scraped: SKU=PAA1100_O6000_000QF | Product Name=Nudo Classic Ring | Price=2600 | Link=https://www.pomellato.com/us_en/nudo-classic-ring-paa1100-o6000-000qf?size=18
+2026-03-10 14:53:14,657 - WARNING - Description not found for Nudo Classic Ring
+2026-03-10 14:53:14,696 - INFO - Product scraped: SKU=PAA1100_O6000_000OG | Product Name=Nudo Classic Ring | Price=2600 | Link=https://www.pomellato.com/us_en/nudo-classic-ring-paa1100-o6000-000og?size=19
+2026-03-10 14:53:28,085 - WARNING - Description not found for Nudo Petit Ring
+2026-03-10 14:53:28,127 - INFO - Product scraped: SKU=PAB7040_OT000_DBKOS | Product Name=Nudo Petit Ring | Price=3000 | Link=https://www.pomellato.com/us_en/nudo-petit-ring-pab7040-ot000-dbkos?size=20
+2026-03-10 14:53:41,338 - WARNING - Description not found for Nudo Maxi Ring
+2026-03-10 14:53:41,378 - INFO - Product scraped: SKU=PAB7041_O6000_DB000 | Product Name=Nudo Maxi Ring | Price=13800 | Link=https://www.pomellato.com/us_en/nudo-maxi-ring-pab7041-o6000-db000?size=18
+2026-03-10 14:53:54,238 - WARNING - Description not found for Iconica Necklace with pendant
+2026-03-10 14:53:54,313 - INFO - Product scraped: SKU=PCC4042_O7WHR_DB000 | Product Name=Iconica Necklace with pendant | Price=8850 | Link=https://www.pomellato.com/us_en/iconica-necklace-with-pendant-pcc4042-o7whr-db000?size=156
+2026-03-10 14:54:07,068 - WARNING - Description not found for Sabbia Necklace with pendant
+2026-03-10 14:54:07,119 - INFO - Product scraped: SKU=PCC4070_O6WHR_DB0BR | Product Name=Sabbia Necklace with pendant | Price=4300 | Link=https://www.pomellato.com/us_en/sabbia-necklace-with-pendant-pcc4070-o6whr-db0br?size=154
+2026-03-10 14:54:20,007 - WARNING - Description not found for Nudo Mini Necklace With Pendant
+2026-03-10 14:54:20,053 - INFO - Product scraped: SKU=PCC5020_O6WHR_DB0YY | Product Name=Nudo Mini Necklace With Pendant | Price=2450 | Link=https://www.pomellato.com/us_en/nudo-mini-necklace-with-pendant-pcc5020-o6whr-db0yy?size=154
+2026-03-10 14:54:33,048 - WARNING - Description not found for Nudo Mini Necklace With Pendant
+2026-03-10 14:54:33,088 - INFO - Product scraped: SKU=PCC5020_O6WHR_DBQLT | Product Name=Nudo Mini Necklace With Pendant | Price=2250 | Link=https://www.pomellato.com/us_en/nudo-mini-necklace-with-pendant-pcc5020-o6whr-dbqlt?size=154
+2026-03-10 14:54:45,856 - WARNING - Description not found for Nudo Mini Earrings
+2026-03-10 14:54:45,894 - INFO - Product scraped: SKU=POC5020_O7000_000TL | Product Name=Nudo Mini Earrings | Price=3900 | Link=https://www.pomellato.com/us_en/nudo-mini-earrings-poc5020-o7000-000tl?size=152
+2026-03-10 14:54:59,053 - WARNING - Description not found for Nudo Mini Earrings
+2026-03-10 14:54:59,102 - INFO - Product scraped: SKU=POC5020_O7000_000YY | Product Name=Nudo Mini Earrings | Price=3400 | Link=https://www.pomellato.com/us_en/nudo-mini-earrings-poc5020-o7000-000yy?size=152
+2026-03-10 14:55:11,936 - WARNING - Description not found for Nudo Mini Earrings
+2026-03-10 14:55:12,024 - INFO - Product scraped: SKU=POC5020_O7000_00QLT | Product Name=Nudo Mini Earrings | Price=3200 | Link=https://www.pomellato.com/us_en/nudo-mini-earrings-poc5020-o7000-00qlt?size=152
+2026-03-10 14:55:25,002 - WARNING - Description not found for Nudo Mini Bangle
+2026-03-10 14:55:25,054 - INFO - Product scraped: SKU=PBC5020_O6WHR_DB0TL | Product Name=Nudo Mini Bangle | Price=5800 | Link=https://www.pomellato.com/us_en/nudo-mini-bangle-pbc5020-o6whr-db0tl?size=4
+2026-03-10 14:55:38,098 - WARNING - Description not found for Nudo Mini Bangle
+2026-03-10 14:55:38,135 - INFO - Product scraped: SKU=PBC5020_O6WHR_DB0YY | Product Name=Nudo Mini Bangle | Price=5350 | Link=https://www.pomellato.com/us_en/nudo-mini-bangle-pbc5020-o6whr-db0yy?size=4
+2026-03-10 14:55:51,797 - WARNING - Description not found for Nudo Mini Bangle
+2026-03-10 14:55:51,852 - INFO - Product scraped: SKU=PBC5020_O6WHR_DBQLT | Product Name=Nudo Mini Bangle | Price=5150 | Link=https://www.pomellato.com/us_en/nudo-mini-bangle-pbc5020-o6whr-dbqlt?size=4
+2026-03-10 14:56:04,765 - WARNING - Description not found for Iconica Reversible Necklace With Pendant
+2026-03-10 14:56:04,797 - INFO - Product scraped: SKU=PCC5041_O7000_000VA | Product Name=Iconica Reversible Necklace With Pendant | Price=6300 | Link=https://www.pomellato.com/us_en/iconica-reversible-necklace-with-pendant-pcc5041-o7000-000va?size=156
+2026-03-10 14:56:20,412 - WARNING - Description not found for Iconica Ring
+2026-03-10 14:56:20,443 - INFO - Product scraped: SKU=PAC5007_O7000_000VA | Product Name=Iconica Ring | Price=7400 | Link=https://www.pomellato.com/us_en/iconica-ring-pac5007-o7000-000va?size=18
+2026-03-10 14:56:20,448 - INFO - Pomellato scraper finished successfully
